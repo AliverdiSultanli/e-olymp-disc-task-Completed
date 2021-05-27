@@ -1,0 +1,23 @@
+{
+  "name": "e-olymp",
+  "version": "1.0.0",
+  "description": "Task of e-olymp",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AliverdiSultanli/e-olymp-disc-task.git"
+  },
+  "keywords": [
+    "disc",
+    "javascript"
+  ],
+  "author": "Aliverdi Sultanli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliverdiSultanli/e-olymp-disc-task/issues"
+  },
+  "homepage": "https://github.com/AliverdiSultanli/e-olymp-disc-task#readme"
+}
